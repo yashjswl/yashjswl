@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/yashjswl">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Data driven+AI+projects;Learning+%5BDSA%5D;Ideas+in%2C+working+things+out.&font=JetBrains+Mono&weight=500&center=true&width=520&height=34&color=f75c7e&vCenter=true&size=20&pause=1200" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+data-driven+AI+projects;Learning+DSA;Ideas+in%2C+working+things+out.&font=JetBrains+Mono&weight=500&center=true&width=520&height=34&color=f75c7e&vCenter=true&size=20&pause=1200" alt="typing" />
 </a>
 
 <br>
@@ -85,4 +85,14 @@ I build **Data driven GenAI** projects, and I'm picking up **DSA** on the side.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f75c7e,100:0d1117&section=footer&text=building%20things%20%C2%B7%20learning%20things&fontColor=ffffff&fontSize=16&fontAlignY=65" alt="footer" />
+<div align="center">
+
+<samp>Let's create something weird, useful, or weirdly useful together.</samp>
+
+<br>
+
+<samp>Made with lots of <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/coffee.svg" height="16" align="center" alt="coffee" /></samp>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f75c7e,100:0d1117&section=footer" alt="footer" />
