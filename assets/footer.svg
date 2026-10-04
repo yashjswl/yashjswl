@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-label="Let's create something weird, useful, or weirdly useful together. Made with lots of coffee.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f75c7e"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 28 C 160 -4, 320 -4, 500 24 S 840 56, 1000 18 L1000 160 L0 160 Z" fill="url(#g)"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="500" y="80" font-size="19" font-weight="600">Let's create something weird, useful, or weirdly useful together.</text>
+    <text x="500" y="118" font-size="15" opacity="0.85">Made with lots of coffee</text>
+  </g>
+  <g transform="translate(618 102) scale(0.75)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <path d="M10 2v2"/><path d="M14 2v2"/><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/><path d="M6 2v2"/>
+  </g>
+</svg>

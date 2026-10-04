@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:f75c7e&text=Yashasvi%20Jaiswal&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=full-stack%20%C2%B7%20GenAI%20%C2%B7%20builder&descSize=16&descAlignY=60&animation=fadeIn" alt="Yashasvi Jaiswal" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:f75c7e&text=Yashasvi%20Jaiswal&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Engineer%20with%20Data%20Science%20background&descSize=16&descAlignY=60&animation=fadeIn" alt="Yashasvi Jaiswal" />
 
 <div align="center">
 
@@ -85,14 +85,4 @@ I build **Data driven GenAI** projects, and I'm picking up **DSA** on the side.
 
 </div>
 
-<div align="center">
-
-<samp>Let's create something weird, useful, or weirdly useful together.</samp>
-
-<br>
-
-<samp>Made with lots of <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/coffee.svg" height="16" align="center" alt="coffee" /></samp>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f75c7e,100:0d1117&section=footer" alt="footer" />
+<img width="100%" src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/footer.svg" alt="Let's create something weird, useful, or weirdly useful together. Made with lots of coffee." />
