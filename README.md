@@ -8,9 +8,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashjswl/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f75c7e?style=for-the-badge&logo=vercel&logoColor=white)](https://yashjswl.com)
-[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://yashjswl.com/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/yashjswl/)
+[![Website](https://img.shields.io/badge/Website-7c3aed?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://yashjswl.com)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cGF0aCBkPSJNMTQgMnY2aDYiLz48cGF0aCBkPSJNMTYgMTNIOCIvPjxwYXRoIGQ9Ik0xNiAxN0g4Ii8%2BPHBhdGggZD0iTTEwIDlIOCIvPjwvc3ZnPg%3D%3D)](https://yashjswl.com/resume)
 [![Email](https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yashjswl.com)
 
 <img src="https://komarev.com/ghpvc/?username=yashjswl&style=flat-square&color=f75c7e&label=profile+views" alt="views" />
@@ -63,18 +63,16 @@ I build **full-stack** and **GenAI** projects, and I'm picking up **[something n
 
 ## <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/layers.svg" height="26" align="center" alt="" />&nbsp; Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,react,fastapi,postgres,supabase,pytorch,tensorflow,sklearn,pandas,numpy,git,github&theme=dark" alt="stack" />
-
-</div>
-
 | | |
 |---|---|
-| **Languages** | Python · SQL · NoSQL · PostgreSQL · Java · C++ · C · TypeScript |
-| **Data & analytics** | Power BI · Advanced Excel · Pandas · NumPy · Jupyter · Google Colab |
-| **ML / AI** | Scikit-learn · PyTorch · TensorFlow · Hugging Face · Gemini · Ollama · ChromaDB · Groq |
-| **Development** | FastAPI · Streamlit · React · Supabase · SQLAlchemy · Git · GitHub |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,js,html,css,bash&theme=dark&perline=10" alt="" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark&perline=10" alt="" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postman&theme=dark&perline=10" alt="" /> |
+| **Data & Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,firebase&theme=dark&perline=10" alt="" /> |
+| **ML / AI** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=10" alt="" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,vercel,cloudflare,aws,gcp&theme=dark&perline=10" alt="" /> |
+
+**Also work with** Power BI · Advanced Excel · Pandas · NumPy · Jupyter · Google Colab · Streamlit · SQLAlchemy · Hugging Face · ChromaDB · Gemini · Groq · Ollama
 
 <br>
 
