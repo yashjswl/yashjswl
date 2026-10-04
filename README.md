@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 About
+### <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/user.svg" height="22" align="center" alt="" />&nbsp; About
 **[Year + Degree]** student at **[Your college]**, [City].
 
 I build **full-stack** and **GenAI** projects, and I'm picking up **[something new]** on the side.
@@ -34,11 +34,11 @@ I build **full-stack** and **GenAI** projects, and I'm picking up **[something n
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Currently
-- 📚 **Learning** · [topic], [topic], [topic]
-- 🔭 **Exploring** · GenAI, RAG, prompt & context engineering
-- 🛠️ **Building** · [what you're building]
-- 🤝 **Open to** · internships & full-time roles
+### <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/sprout.svg" height="22" align="center" alt="" />&nbsp; Currently
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/book.svg" height="16" align="center" alt="" /> **Learning** · [topic], [topic], [topic]
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/telescope.svg" height="16" align="center" alt="" /> **Exploring** · GenAI, RAG, prompt & context engineering
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/hammer.svg" height="16" align="center" alt="" /> **Building** · [what you're building]
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/handshake.svg" height="16" align="center" alt="" /> **Open to** · internships & full-time roles
 
 </td>
 </tr>
@@ -46,46 +46,21 @@ I build **full-stack** and **GenAI** projects, and I'm picking up **[something n
 
 <br>
 
-## 🚀 Projects
+## <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/rocket.svg" height="26" align="center" alt="" />&nbsp; Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### [Project One](https://github.com/yashjswl/PROJECT-1)
-One or two sentences: what it does and why it's interesting.<br><br>
-<sub>`tech` `tech` `tech`</sub>
+<a href="https://github.com/yashjswl/lynqoqr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=lynqoqr&theme=github_dark&hide_border=true" alt="lynqoqr" /></a>
+<a href="https://github.com/yashjswl/ai-project-ops-copilot"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-project-ops-copilot&theme=github_dark&hide_border=true" alt="ai-project-ops-copilot" /></a>
+<br>
+<a href="https://github.com/yashjswl/ai-change-impact-studio"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-change-impact-studio&theme=github_dark&hide_border=true" alt="ai-change-impact-studio" /></a>
+<a href="https://github.com/yashjswl/Financial-Intelligence-Dashboard"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=Financial-Intelligence-Dashboard&theme=github_dark&hide_border=true" alt="Financial-Intelligence-Dashboard" /></a>
 
-</td>
-<td width="50%" valign="top">
-
-#### [Project Two](https://github.com/yashjswl/PROJECT-2)
-One or two sentences: what it does and why it's interesting.<br><br>
-<sub>`tech` `tech` `tech`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [Project Three](https://github.com/yashjswl/PROJECT-3)
-One or two sentences: what it does and why it's interesting.<br><br>
-<sub>`tech` `tech` `tech`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### [Project Four](https://github.com/yashjswl/PROJECT-4)
-One or two sentences: what it does and why it's interesting.<br><br>
-<sub>`tech` `tech` `tech`</sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-## 🧰 Tech Stack
+## <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/layers.svg" height="26" align="center" alt="" />&nbsp; Tech Stack
 
 <div align="center">
 
@@ -103,7 +78,7 @@ One or two sentences: what it does and why it's interesting.<br><br>
 
 <br>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/chart.svg" height="26" align="center" alt="" />&nbsp; GitHub Stats
 
 <div align="center">
 
