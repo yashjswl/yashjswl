@@ -8,11 +8,10 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f75c7e?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/YOUR-RESUME-LINK)
-[![Email](https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasvi.jaiswal.2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashjswl/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f75c7e?style=for-the-badge&logo=vercel&logoColor=white)](https://yashjswl.com)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://yashjswl.com/resume)
+[![Email](https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yashjswl.com)
 
 <img src="https://komarev.com/ghpvc/?username=yashjswl&style=flat-square&color=f75c7e&label=profile+views" alt="views" />
 
@@ -50,11 +49,13 @@ I build **full-stack** and **GenAI** projects, and I'm picking up **[something n
 
 <div align="center">
 
-<a href="https://github.com/yashjswl/lynqoqr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=lynqoqr&theme=github_dark&hide_border=true" alt="lynqoqr" /></a>
+<a href="https://github.com/yashjswl/ai-change-impact-studio"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-change-impact-studio&theme=github_dark&hide_border=true" alt="ai-change-impact-studio" /></a>
 <a href="https://github.com/yashjswl/ai-project-ops-copilot"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-project-ops-copilot&theme=github_dark&hide_border=true" alt="ai-project-ops-copilot" /></a>
 <br>
-<a href="https://github.com/yashjswl/ai-change-impact-studio"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-change-impact-studio&theme=github_dark&hide_border=true" alt="ai-change-impact-studio" /></a>
+<a href="https://github.com/yashjswl/minoki-server-manager-showcase"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=minoki-server-manager-showcase&theme=github_dark&hide_border=true" alt="minoki-server-manager-showcase" /></a>
 <a href="https://github.com/yashjswl/Financial-Intelligence-Dashboard"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=Financial-Intelligence-Dashboard&theme=github_dark&hide_border=true" alt="Financial-Intelligence-Dashboard" /></a>
+<br>
+<a href="https://github.com/yashjswl/lynqoqr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=lynqoqr&theme=github_dark&hide_border=true" alt="lynqoqr" /></a>
 
 </div>
 
@@ -64,17 +65,16 @@ I build **full-stack** and **GenAI** projects, and I'm picking up **[something n
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,flask,postgres,firebase,docker,git,vscode&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,react,fastapi,postgres,supabase,pytorch,tensorflow,sklearn,pandas,numpy,git,github&theme=dark" alt="stack" />
 
 </div>
 
 | | |
 |---|---|
-| **Languages** | Python · JavaScript · TypeScript |
-| **Web** | React · Node.js · Flask · FastAPI |
-| **Data** | PostgreSQL · Firebase |
-| **AI / ML** | LLM APIs · RAG · FAISS · Prompt engineering |
-| **Tools** | Git · Docker · Claude Code · Figma |
+| **Languages** | Python · SQL · NoSQL · PostgreSQL · Java · C++ · C · TypeScript |
+| **Data & analytics** | Power BI · Advanced Excel · Pandas · NumPy · Jupyter · Google Colab |
+| **ML / AI** | Scikit-learn · PyTorch · TensorFlow · Hugging Face · Gemini · Ollama · ChromaDB · Groq |
+| **Development** | FastAPI · Streamlit · React · Supabase · SQLAlchemy · Git · GitHub |
 
 <br>
 
