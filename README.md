@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/yashjswl">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+%26+AI+projects;Learning+%5BYOUR+CURRENT+FOCUS%5D;Ideas+in%2C+working+things+out.&font=JetBrains+Mono&weight=500&center=true&width=520&height=34&color=f75c7e&vCenter=true&size=20&pause=1200" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Data driven+AI+projects;Learning+%5BDSA%5D;Ideas+in%2C+working+things+out.&font=JetBrains+Mono&weight=500&center=true&width=520&height=34&color=f75c7e&vCenter=true&size=20&pause=1200" alt="typing" />
 </a>
 
 <br>
@@ -24,20 +24,18 @@
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/user.svg" height="22" align="center" alt="" />&nbsp; About
-**[Year + Degree]** student at **[Your college]**, [City].
+Prefinal year **CS** undergrad
 
-I build **full-stack** and **GenAI** projects, and I'm picking up **[something new]** on the side.
-
-> Still learning, still shipping, one project at a time.
+I build **Data driven GenAI** projects, and I'm picking up **DSA** on the side.
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/sprout.svg" height="22" align="center" alt="" />&nbsp; Currently
-- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/book.svg" height="16" align="center" alt="" /> **Learning** · [topic], [topic], [topic]
-- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/telescope.svg" height="16" align="center" alt="" /> **Exploring** · GenAI, RAG, prompt & context engineering
-- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/hammer.svg" height="16" align="center" alt="" /> **Building** · [what you're building]
-- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/handshake.svg" height="16" align="center" alt="" /> **Open to** · internships & full-time roles
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/book.svg" height="16" align="center" alt="" /> **Learning** · DSA, AWS
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/telescope.svg" height="16" align="center" alt="" /> **Exploring** · GenAI, RAG, Cloud, Data Analytics
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/hammer.svg" height="16" align="center" alt="" /> **Building** · Applications and Dashboards
+- <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/handshake.svg" height="16" align="center" alt="" /> **Open to** · AI Engineer & Data Science roles, Internships
 
 </td>
 </tr>
