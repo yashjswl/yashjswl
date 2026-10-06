@@ -50,8 +50,11 @@ I build **Data driven GenAI** projects, and I'm picking up **DSA** on the side.
 <a href="https://github.com/yashjswl/ai-change-impact-studio"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-change-impact-studio&theme=github_dark&hide_border=true" alt="ai-change-impact-studio" /></a>
 <a href="https://github.com/yashjswl/ai-project-ops-copilot"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=ai-project-ops-copilot&theme=github_dark&hide_border=true" alt="ai-project-ops-copilot" /></a>
 <br>
-<a href="https://github.com/yashjswl/minoki-server-manager-showcase"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=minoki-server-manager-showcase&theme=github_dark&hide_border=true" alt="minoki-server-manager-showcase" /></a>
 <a href="https://github.com/yashjswl/Financial-Intelligence-Dashboard"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=Financial-Intelligence-Dashboard&theme=github_dark&hide_border=true" alt="Financial-Intelligence-Dashboard" /></a>
+<a href="https://github.com/yashjswl/instacart-customer-analytics"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=instacart-customer-analytics&theme=github_dark&hide_border=true" alt="instacart-customer-analytics" /></a>
+<br>
+<a href="https://github.com/yashjswl/demand-forecast-reorder-sim"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=demand-forecast-reorder-sim&theme=github_dark&hide_border=true" alt="demand-forecast-reorder-sim" /></a>
+<a href="https://github.com/yashjswl/minoki-server-manager-showcase"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=minoki-server-manager-showcase&theme=github_dark&hide_border=true" alt="minoki-server-manager-showcase" /></a>
 <br>
 <a href="https://github.com/yashjswl/lynqoqr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=yashjswl&repo=lynqoqr&theme=github_dark&hide_border=true" alt="lynqoqr" /></a>
 
