@@ -66,14 +66,12 @@ I build **Data driven GenAI** projects, and I'm picking up **DSA** on the side.
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,js,html,css,bash&theme=dark&perline=10" alt="" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark&perline=10" alt="" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postman&theme=dark&perline=10" alt="" /> |
-| **Data & Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,firebase&theme=dark&perline=10" alt="" /> |
-| **ML / AI** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=10" alt="" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,vercel,cloudflare,aws,gcp&theme=dark&perline=10" alt="" /> |
-
-**Also work with** Power BI · Advanced Excel · Pandas · NumPy · Jupyter · Google Colab · Streamlit · SQLAlchemy · Hugging Face · ChromaDB · Gemini · Groq · Ollama
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,js,html,css&theme=dark&perline=10" alt="" /><br><sub>SQL</sub> |
+| **Data &amp; ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark&perline=10" alt="" /><br><sub>Pandas · NumPy · LightGBM · statsmodels · Time-series forecasting · A/B testing</sub> |
+| **AI / LLMs** | RAG · LLM APIs · LangChain · Hugging Face · Evaluation · ChromaDB · Gemini · Groq · Ollama |
+| **Backend &amp; Data** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,supabase,cloudflare&theme=dark&perline=10" alt="" /><br><sub>SQLAlchemy · DuckDB · Cloudflare Workers, KV &amp; D1</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=10" alt="" /><br><sub>Streamlit</sub> |
+| **Analytics &amp; Tools** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=10" alt="" /><br><sub>Power BI · Advanced Excel · Jupyter · Google Colab · Makefile</sub> |
 
 <br>
 
