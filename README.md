@@ -64,11 +64,11 @@ I build **Data driven GenAI** projects, and I'm picking up **DSA** on the side.
 
 ## <img src="https://raw.githubusercontent.com/yashjswl/yashjswl/main/assets/icons/layers.svg" height="26" align="center" alt="" />&nbsp; Tech Stack
 
-| | |
+| Area | Skills |
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,js,html,css&theme=dark&perline=10" alt="" /><br><sub>SQL</sub> |
 | **Data &amp; ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark&perline=10" alt="" /><br><sub>Pandas · NumPy · LightGBM · statsmodels · Time-series forecasting · A/B testing</sub> |
-| **AI / LLMs** | RAG · LLM APIs · LangChain · Hugging Face · Evaluation · ChromaDB · Gemini · Groq · Ollama |
+| **AI / LLMs** | <sub>RAG · LLM APIs · LangChain · Hugging Face · Evaluation · ChromaDB · Gemini · Groq · Ollama</sub> |
 | **Backend &amp; Data** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,supabase,cloudflare&theme=dark&perline=10" alt="" /><br><sub>SQLAlchemy · DuckDB · Cloudflare Workers, KV &amp; D1</sub> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=10" alt="" /><br><sub>Streamlit</sub> |
 | **Analytics &amp; Tools** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=10" alt="" /><br><sub>Power BI · Advanced Excel · Jupyter · Google Colab · Makefile</sub> |
